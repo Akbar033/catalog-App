@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "desc": "Latest iPhone with A16 Bionic chip and Dynamic Island feature.",
+      "price": 1099,
+      "color": "Space Black",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.mM49l9Zs_heC0vcbm-BeWgHaMJ&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 2,
+      "name": "Samsung QLED TV",
+      "desc": "75-inch QLED Smart TV with 4K resolution and HDR support.",
+      "price": 1599,
+      "color": "Black",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.Qaz1NFvncII1Ed2JelKylgHaFj&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 3,
+      "name":  "Apple iPad Air",
+      "desc":  "10.9-inch iPad Air with M1 chip and Liquid Retina display.",
+      "price": 599,
+      "color": "Sky Blue",
+      "image":  "https://tse2.mm.bing.net/th?id=OIP.ullM2uGN1fSL-r3u2ZWZpQHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 4,
+      "name": "Sony WH-1000XM5",
+      "desc": "Noise-canceling wireless headphones with exceptional sound quality.",
+      "price": 399,
+      "color": "Silver",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.2cu2Py_S8kiJGgZclmJCgwHaKs&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 5,
+      "name": "Dell XPS 13",
+      "desc": "Ultra-slim 13-inch laptop with Intel Core i7 and 4K touch display.",
+      "price": 1299,
+      "color": "Platinum Silver",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Zfk_9biInjjdP_h6pPpkbAHaF8&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 6,
+      "name": "Apple Watch Series 8",
+      "desc": "Smartwatch with fitness tracking, ECG, and blood oxygen monitoring.",
+      "price": 399,
+      "color": "Midnight",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.4cJ342AaoUUA943qD9oSowHaFj&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 7,
+      "name": "Bose SoundLink Revolve+",
+      "desc": "Portable Bluetooth speaker with 360-degree sound and water resistance.",
+      "price": 299,
+      "color": "Triple Black",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.hkf0FFEsQpGksxfuaFj2SwHaHa&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 8,
+      "name": "Logitech MX Master 3S",
+      "desc": "Advanced wireless mouse with ergonomic design and customizable buttons.",
+      "price": 99,
+      "color": "Graphite",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.rCyu6ZRheVIxoYxgH2k4IgHaGX&pid=Api&P=0&h=180"
+    }
+  ]
+}
